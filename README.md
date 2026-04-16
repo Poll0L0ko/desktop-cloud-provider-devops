@@ -202,3 +202,13 @@ Participation in the Kubernetes community is governed by the [Kubernetes Code of
 
 [owners]: https://git.k8s.io/community/contributors/guide/owners.md
 [Creative Commons 4.0]: https://git.k8s.io/website/LICENSE
+
+## Integración Continua (CI/CD)
+
+Este proyecto incluye un flujo de trabajo de automatización utilizando GitHub Actions, el cual permite ejecutar procesos de validación y construcción de manera automática cada vez que se realizan cambios en el repositorio.
+
+El objetivo de esta configuración es aplicar prácticas DevOps que faciliten la integración continua, asegurando que el código se mantenga funcional y actualizado.
+
+## Prueba de activación de pipeline
+
+Se realizó una modificación en este archivo con el propósito de activar el pipeline de GitHub Actions y verificar su correcto funcionamiento.
